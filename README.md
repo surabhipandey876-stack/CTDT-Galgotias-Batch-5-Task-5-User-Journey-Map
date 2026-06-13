@@ -25,7 +25,8 @@ Goal: Manage groceries efficiently and reduce food wastage.
 
 ## Lucidchart User Journey Map
 
-https://lucid.app/lucidchart/d4ec5e7b-3ea3-4294-a8d7-c50de0c5287c/edit?viewport_loc=-442%2C-265%2C1863%2C1104%2C0_0&invitationId=inv_9d8f6da7-35a1-450e-af56-9c68af4c4c7c
+https://lucid.app/lucidchart/d4ec5e7b-3ea3-4294-a8d7-c50de0c5287c/edit?viewport_loc=-411%2C104%2C1863%2C1104%2C0_0&invitationId=inv_9d8f6da7-35a1-450e-af56-9c68af4c4c7c
+
 ## Conclusion
 
 Samsung's AI Family Hub Refrigerator helps users track food, reduce waste, receive recipe recommendations, and improve kitchen efficiency through AI-powered features.
